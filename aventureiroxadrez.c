@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-   
+  // entrada de movimentação do cavalo 
    
 printf ("movimento do Cavalo\n");
 printf ("\n");
