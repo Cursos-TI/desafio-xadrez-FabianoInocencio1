@@ -10,12 +10,7 @@ int main() {
      // MOVIMENTO DAS PEÇAS
      
      int jogada;
-     
-      do{
-     
-     printf ("Informe a sua jogada, informe 0 para sair\n");
-     printf ("Digite:");
-     scanf ("%d", &jogada);
+    
      
    printf ("Movimento do bispo\n");
    
@@ -35,7 +30,7 @@ int main() {
    for (int i = 1; i <= movimento_rainha; ++i){
     printf ("Esquerda\n");
    }
-      } while ( jogada != 0);
+      
   
     printf ("fim da jogada");
 
