@@ -13,6 +13,8 @@ int main() {
     
      
    printf ("Movimento do bispo\n");
+
+   // movimento das peças com for
    
    for (int i = 1; i <= movimento_bispo; ++i){
    printf ("Cima\n");
